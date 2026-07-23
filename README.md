@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/boymirza-rejavaliyev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://t.me/theboyake"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <img src="https://img.shields.io/badge/Location-Tashkent,%20UZ-informational?style=for-the-badge" alt="Location"/>
+  <a href="https://app.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/></a>
 </p>
 
 ---
@@ -17,6 +18,7 @@ from recon through exploitation to clear, actionable reporting.
 
 - 🔭 Focused on **Web App Pentesting**, **Network Security**, **Red Teaming**, **Active Directory**
 - 🌱 Continuously sharpening skills through **HackTheBox** labs and **CTFs**
+- 📚 Currently working through **OffSec PEN-103** and building toward **OSCP**
 - 🛡️ Certified: **CRTA**, **CRT-COI**, **CJCA**, **HPTC**
 - 📫 Reach me on **LinkedIn** or **Telegram**
 
@@ -42,6 +44,7 @@ from recon through exploitation to clear, actionable reporting.
 
 - **[ReconFlow](https://github.com/boymirza-rejavaliyev/reconflow)** — Passive recon automation: subdomain enumeration → live host probing → tech fingerprinting.
 - **[Security Write-ups](https://github.com/boymirza-rejavaliyev/security-writeups)** — HackTheBox / CTF write-ups and pentesting methodology notes.
+- **[nmap-reporter](https://github.com/boymirza-rejavaliyev/nmap-reporter)** — Turns Nmap XML into a clean Markdown/HTML engagement report.
 
 ---
 
